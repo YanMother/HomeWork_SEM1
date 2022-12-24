@@ -1,0 +1,15 @@
+C:\Users\mamul\Desktop\homework_seminar_1\Task001_C\bin\Debug\net6.0\Task001_C.exe
+C:\Users\mamul\Desktop\homework_seminar_1\Task001_C\bin\Debug\net6.0\Task001_C.deps.json
+C:\Users\mamul\Desktop\homework_seminar_1\Task001_C\bin\Debug\net6.0\Task001_C.runtimeconfig.json
+C:\Users\mamul\Desktop\homework_seminar_1\Task001_C\bin\Debug\net6.0\Task001_C.dll
+C:\Users\mamul\Desktop\homework_seminar_1\Task001_C\bin\Debug\net6.0\Task001_C.pdb
+C:\Users\mamul\Desktop\homework_seminar_1\Task001_C\obj\Debug\net6.0\Task001_C.csproj.AssemblyReference.cache
+C:\Users\mamul\Desktop\homework_seminar_1\Task001_C\obj\Debug\net6.0\Task001_C.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mamul\Desktop\homework_seminar_1\Task001_C\obj\Debug\net6.0\Task001_C.AssemblyInfoInputs.cache
+C:\Users\mamul\Desktop\homework_seminar_1\Task001_C\obj\Debug\net6.0\Task001_C.AssemblyInfo.cs
+C:\Users\mamul\Desktop\homework_seminar_1\Task001_C\obj\Debug\net6.0\Task001_C.csproj.CoreCompileInputs.cache
+C:\Users\mamul\Desktop\homework_seminar_1\Task001_C\obj\Debug\net6.0\Task001_C.dll
+C:\Users\mamul\Desktop\homework_seminar_1\Task001_C\obj\Debug\net6.0\refint\Task001_C.dll
+C:\Users\mamul\Desktop\homework_seminar_1\Task001_C\obj\Debug\net6.0\Task001_C.pdb
+C:\Users\mamul\Desktop\homework_seminar_1\Task001_C\obj\Debug\net6.0\Task001_C.genruntimeconfig.cache
+C:\Users\mamul\Desktop\homework_seminar_1\Task001_C\obj\Debug\net6.0\ref\Task001_C.dll
